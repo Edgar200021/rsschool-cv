@@ -48,10 +48,15 @@ if (userName === 'Admin') {
   alert( "I dont know you" );
 }
 ```
+
 ## Experience
+
 ## Education
-+ **University:** National University of Architecture and Construction of Armenia
+
+- **University:** National University of Architecture and Construction of Armenia
+
 ## Languages
-+ **Native:** Armenian
-+ **Average:** Russian
-+ **Elementary/Pre-Intermediate** English
+
+- **Native:** Armenian
+- **Average:** Russian
+- **Elementary/Pre-Intermediate:** English
