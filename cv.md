@@ -10,3 +10,8 @@
 - **GitHub:** [Edgar200021](https://github.com/Edgar200021/rsschool-cv.git)
 
 ---
+
+## About Me
+
+## My name is Edgar, I'm 22, I'm from Armenia, currently studying at the university:I like to create websites, write code․My goal is to become a programmer, and in the future to work without leaving home, because I really like to be alone with myself․
+---
